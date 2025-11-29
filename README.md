@@ -8,6 +8,14 @@ variance/logit–aware personalization step improves performance for a new user.
 
 ---
 
+## 0. requirements
+
+```bash
+pip install numpy pandas torch scikit-learn matplotlib plotly torchview
+```
+
+---
+
 ## 1. datasets/
 
 Contains raw accelerometer CSV files for 8 users:
